@@ -9,6 +9,7 @@ numpy = "*"
 openai = "*"
 pyarrow = "*"
 ipykernel = "*"
+matplotlib = "*"
 
 [dev-packages]
 
