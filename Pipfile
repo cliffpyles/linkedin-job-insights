@@ -10,6 +10,7 @@ openai = "*"
 pyarrow = "*"
 ipykernel = "*"
 matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
