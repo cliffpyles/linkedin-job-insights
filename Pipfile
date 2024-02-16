@@ -12,6 +12,8 @@ ipykernel = "*"
 matplotlib = "*"
 seaborn = "*"
 wordcloud = "*"
+requests = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
